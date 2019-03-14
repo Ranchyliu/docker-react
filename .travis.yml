@@ -13,7 +13,7 @@ deploy:
   region: "us-east-1"
   app: "docker-react-udemy"
   env: "DockerReactUdemy-env"
-  bucket_name: "/elasticbeanstalk-us-east-1-847158946762"
+  bucket_name: "elasticbeanstalk-us-east-1-847158946762"
   bucket_path: "docker-react-udemy"
   on:
     branch: master
